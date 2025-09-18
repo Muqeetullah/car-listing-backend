@@ -21,5 +21,5 @@ Built with **NestJS + MongoDB + Prisma** (backend) and **Next.js 15 + Redux Tool
 
 ```bash
 git clone https://github.com/Muqeetullah/car-listing-backend.git
-git clone https://github.com/your-username/car-listing-frontend.git
+git clone https://github.com/your-username/carlisting-frontend.git
 ```
