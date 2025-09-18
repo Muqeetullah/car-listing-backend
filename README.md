@@ -20,6 +20,6 @@ Built with **NestJS + MongoDB + Prisma** (backend) and **Next.js 15 + Redux Tool
 ### 1. Clone Repositories
 
 ```bash
-git clone https://github.com/your-username/luxcar-backend.git
-git clone https://github.com/your-username/luxcar-frontend.git
+git clone https://github.com/Muqeetullah/car-listing-backend.git
+git clone https://github.com/your-username/car-listing-frontend.git
 ```
